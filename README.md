@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Utsav Singh</h1>
 <h3 align="center">Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Angular**
+- 🌱 I’m currently learning **Spring boot Applications and Containerization **
 
 - 💬 Ask me about **React, Node.js, MERN, Redux, Materialize CSS, Firebase**
 
